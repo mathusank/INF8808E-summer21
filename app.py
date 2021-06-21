@@ -22,7 +22,7 @@ import barchart_g3
 import areachart
 import linechart_G6
 import linechart_G8
-
+from flask_failsafe import failsafe
 
 app = dash.Dash(__name__)
 app.title = 'Projet | INF8808'
@@ -196,5 +196,22 @@ html.Header(children=[
             ))
     ])
 ])
+
+
+@failsafe
+def create_app():
+    '''
+        Gets the underlying Flask server from our Dash app.
+
+        Returns:
+            The server to be run
+    '''
+    # the import is intentionally inside to work with the server failsafe
+    from app import app  # pylint: disable=import-outside-toplevel
+    return app.server
+
+
+if __name__ == "__main__":
+    create_app().run(debug=True)
 
 
