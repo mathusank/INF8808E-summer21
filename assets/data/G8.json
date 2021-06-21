@@ -1,0 +1,355 @@
+{
+    "G8": [
+        {
+            "Annee": "1981",
+            "Exportations internationales": 33119,
+            "Exportations interprovinciales": 44335,
+            "Importations internationales": 27245,
+            "Importations interprovinciales": 40960,
+            "Solde commerciale international": 5874,
+            "Solde commerciale interprovincial": 3375
+        },
+        {
+            "Annee": "1982",
+            "Exportations internationales": 31361,
+            "Exportations interprovinciales": 40141,
+            "Importations internationales": 22336,
+            "Importations interprovinciales":36808,
+            "Solde commerciale international": 9025,
+            "Solde commerciale interprovincial": 3333
+        },
+        {
+            "Annee": "1983",
+            "Exportations internationales": 32413,
+            "Exportations interprovinciales": 41295,
+            "Importations internationales": 24913,
+            "Importations interprovinciales":39049,
+            "Solde commerciale international": 7500,
+            "Solde commerciale interprovincial": 2246
+        },
+        {
+            "Annee": "1984",
+            "Exportations internationales": 37457,
+            "Exportations interprovinciales": 41322,
+            "Importations internationales": 29352,
+            "Importations interprovinciales":42304,
+            "Solde commerciale international": 8105,
+            "Solde commerciale interprovincial": -982
+        },
+        {
+            "Annee": "1985",
+            "Exportations internationales": 37508,
+            "Exportations interprovinciales": 43306,
+            "Importations internationales": 32549,
+            "Importations interprovinciales":42375,
+            "Solde commerciale international": 4959,
+            "Solde commerciale interprovincial": 931
+        },
+        {
+            "Annee": "1986",
+            "Exportations internationales": 38887,
+            "Exportations interprovinciales": 43484,
+            "Importations internationales": 34411,
+            "Importations interprovinciales":44537,
+            "Solde commerciale international": 4476,
+            "Solde commerciale interprovincial": -1053
+        },
+        {
+            "Annee": "1987",
+            "Exportations internationales": 36571,
+            "Exportations interprovinciales": 46925,
+            "Importations internationales": 36260,
+            "Importations interprovinciales":46900,
+            "Solde commerciale international": 311,
+            "Solde commerciale interprovincial": 25
+        },
+        {
+            "Annee": "1988",
+            "Exportations internationales": 41423,
+            "Exportations interprovinciales": 50358,
+            "Importations internationales": 41205,
+            "Importations interprovinciales":49015,
+            "Solde commerciale international": 218,
+            "Solde commerciale interprovincial": 1343
+        },
+        {
+            "Annee": "1989",
+            "Exportations internationales": 42759,
+            "Exportations interprovinciales": 51042,
+            "Importations internationales": 44807,
+            "Importations interprovinciales":50913,
+            "Solde commerciale international": -2048,
+            "Solde commerciale interprovincial": 129
+        },
+        {
+            "Annee": "1990",
+            "Exportations internationales": 45532,
+            "Exportations interprovinciales": 50201,
+            "Importations internationales": 47480,
+            "Importations interprovinciales":47587,
+            "Solde commerciale international": -1948,
+            "Solde commerciale interprovincial": 2614
+        },
+        {
+            "Annee": "1991",
+            "Exportations internationales": 44560,
+            "Exportations interprovinciales": 46809,
+            "Importations internationales": 48827,
+            "Importations interprovinciales":42946,
+            "Solde commerciale international":-4267,
+            "Solde commerciale interprovincial": 3863
+        },
+        {
+            "Annee": "1992",
+            "Exportations internationales": 47324,
+            "Exportations interprovinciales": 44708,
+            "Importations internationales": 49496,
+            "Importations interprovinciales":42253,
+            "Solde commerciale international":-2172,
+            "Solde commerciale interprovincial": 2455
+        },
+        {
+            "Annee": "1993",
+            "Exportations internationales": 53982,
+            "Exportations interprovinciales": 44977,
+            "Importations internationales": 53857,
+            "Importations interprovinciales":44189,
+            "Solde commerciale international": 125,
+            "Solde commerciale interprovincial": 788
+        },
+        {
+            "Annee": "1994",
+            "Exportations internationales": 63868,
+            "Exportations interprovinciales": 44239,
+            "Importations internationales": 54540,
+            "Importations interprovinciales":46509,
+            "Solde commerciale international": 9328,
+            "Solde commerciale interprovincial": -2270
+        },
+        {
+            "Annee": "1995",
+            "Exportations internationales": 67287,
+            "Exportations interprovinciales": 46396,
+            "Importations internationales": 56696,
+            "Importations interprovinciales":46804,
+            "Solde commerciale international": 10591,
+            "Solde commerciale interprovincial": -408
+        },
+        {
+            "Annee": "1996",
+            "Exportations internationales": 70690,
+            "Exportations interprovinciales": 46092,
+            "Importations internationales": 60843,
+            "Importations interprovinciales": 47900,
+            "Solde commerciale international": 9847,
+            "Solde commerciale interprovincial": -1808
+        },
+        {
+            "Annee": "1997",
+            "Exportations internationales": 76859,
+            "Exportations interprovinciales": 49274,
+            "Importations internationales": 69433,
+            "Importations interprovinciales":47892,
+            "Solde commerciale international": 7426,
+            "Solde commerciale interprovincial":1382
+        },
+        {
+            "Annee": "1998",
+            "Exportations internationales": 84720,
+            "Exportations interprovinciales": 49131,
+            "Importations internationales": 74305,
+            "Importations interprovinciales":48664,
+            "Solde commerciale international": 10415,
+            "Solde commerciale interprovincial": 467
+        },
+        {
+            "Annee": "1999",
+            "Exportations internationales": 96323,
+            "Exportations interprovinciales": 51920,
+            "Importations internationales": 82211,
+            "Importations interprovinciales":51710,
+            "Solde commerciale international": 14112,
+            "Solde commerciale interprovincial": 210
+        },
+        {
+            "Annee": "2000",
+            "Exportations internationales": 109942,
+            "Exportations interprovinciales": 54271,
+            "Importations internationales": 89804,
+            "Importations interprovinciales":57233,
+            "Solde commerciale international": 20138,
+            "Solde commerciale interprovincial": -2962
+        },
+        {
+            "Annee": "2001",
+            "Exportations internationales": 104286,
+            "Exportations interprovinciales": 57047,
+            "Importations internationales": 83674,
+            "Importations interprovinciales":58049,
+            "Solde commerciale international": 20612,
+            "Solde commerciale interprovincial": -1002
+        },
+        {
+            "Annee": "2002",
+            "Exportations internationales": 103611,
+            "Exportations interprovinciales": 57578,
+            "Importations internationales": 84521,
+            "Importations interprovinciales":60479,
+            "Solde commerciale international": 19090,
+            "Solde commerciale interprovincial": -2901
+        },
+        {
+            "Annee": "2003",
+            "Exportations internationales": 98408,
+            "Exportations interprovinciales": 59349,
+            "Importations internationales": 87492,
+            "Importations interprovinciales":62473,
+            "Solde commerciale international": 10916,
+            "Solde commerciale interprovincial": -3124
+        },
+        {
+            "Annee": "2004",
+            "Exportations internationales": 102305,
+            "Exportations interprovinciales": 58302,
+            "Importations internationales": 93607,
+            "Importations interprovinciales":63479,
+            "Solde commerciale international": 8698,
+            "Solde commerciale interprovincial": -5177
+        },
+        {
+            "Annee": "2005",
+            "Exportations internationales": 105071,
+            "Exportations interprovinciales": 59352,
+            "Importations internationales": 100514,
+            "Importations interprovinciales":63262,
+            "Solde commerciale international": 4557,
+            "Solde commerciale interprovincial": -3910
+        },
+        {
+            "Annee": "2006",
+            "Exportations internationales": 106014,
+            "Exportations interprovinciales": 61086,
+            "Importations internationales": 104872,
+            "Importations interprovinciales":64297,
+            "Solde commerciale international": 1142,
+            "Solde commerciale interprovincial": -3211
+        },
+        {
+            "Annee": "2007",
+            "Exportations internationales": 104991,
+            "Exportations interprovinciales": 65097,
+            "Importations internationales": 111373,
+            "Importations interprovinciales":66043,
+            "Solde commerciale international": -6382,
+            "Solde commerciale interprovincial": -946
+        },
+        {
+            "Annee": "2008",
+            "Exportations internationales": 101904,
+            "Exportations interprovinciales": 62709,
+            "Importations internationales": 112404,
+            "Importations interprovinciales":62756,
+            "Solde commerciale international": -10500,
+            "Solde commerciale interprovincial": -47
+        },
+        {
+            "Annee": "2009",
+            "Exportations internationales": 93040,
+            "Exportations interprovinciales": 65015,
+            "Importations internationales": 106946,
+            "Importations interprovinciales":61886,
+            "Solde commerciale international": -13906,
+            "Solde commerciale interprovincial": 3129
+        },
+        {
+            "Annee": "2010",
+            "Exportations internationales": 91510,
+            "Exportations interprovinciales": 66882,
+            "Importations internationales":  115336,
+            "Importations interprovinciales":61322,
+            "Solde commerciale international": -23826,
+            "Solde commerciale interprovincial": 5560
+        },
+        {
+            "Annee": "2011",
+            "Exportations internationales": 89491,
+            "Exportations interprovinciales": 68309,
+            "Importations internationales": 116859,
+            "Importations interprovinciales":62041,
+            "Solde commerciale international": -27368,
+            "Solde commerciale interprovincial": 6268
+        },
+        {
+            "Annee": "2012",
+            "Exportations internationales": 91482,
+            "Exportations interprovinciales": 68801,
+            "Importations internationales": 120431,
+            "Importations interprovinciales":62122,
+            "Solde commerciale international": -28949,
+            "Solde commerciale interprovincial": 6679
+        },
+        {
+            "Annee": "2013",
+            "Exportations internationales": 92931,
+            "Exportations interprovinciales": 68782,
+            "Importations internationales": 121483,
+            "Importations interprovinciales":61582,
+            "Solde commerciale international": -28552,
+            "Solde commerciale interprovincial": 7200
+        },
+        {
+            "Annee": "2014",
+            "Exportations internationales": 101236,
+            "Exportations interprovinciales": 68835,
+            "Importations internationales": 118769,
+            "Importations interprovinciales":61862,
+            "Solde commerciale international": -17533,
+            "Solde commerciale interprovincial": 6973
+        },
+        {
+            "Annee": "2015",
+            "Exportations internationales": 104214,
+            "Exportations interprovinciales": 69306,
+            "Importations internationales": 122764,
+            "Importations interprovinciales":61104,
+            "Solde commerciale international": -18550,
+            "Solde commerciale interprovincial": 8202
+        },
+        {
+            "Annee": "2016",
+            "Exportations internationales": 105849,
+            "Exportations interprovinciales": 67894,
+            "Importations internationales": 123720,
+            "Importations interprovinciales":59353,
+            "Solde commerciale international": -17871,
+            "Solde commerciale interprovincial": 8541
+        },
+        {
+            "Annee": "2017",
+            "Exportations internationales": 107354,
+            "Exportations interprovinciales": 69181,
+            "Importations internationales":  133813,
+            "Importations interprovinciales":63054,
+            "Solde commerciale international": -26459,
+            "Solde commerciale interprovincial": 6127
+        },
+        {
+            "Annee": "2018",
+            "Exportations internationales": 113091,
+            "Exportations interprovinciales": 70076,
+            "Importations internationales": 137992,
+            "Importations interprovinciales":63506,
+            "Solde commerciale international": -24901,
+            "Solde commerciale interprovincial": 6570
+        },
+        {
+            "Annee": "2019",
+            "Exportations internationales": 114311,
+            "Exportations interprovinciales": 71971,
+            "Importations internationales": 140843,
+            "Importations interprovinciales":64420,
+            "Solde commerciale international": -26532,
+            "Solde commerciale interprovincial": 7551
+        }
+    ]
+ }
